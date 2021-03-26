@@ -1,6 +1,7 @@
 """
     Implementation of HBMO for minimizing a mathematical function with 2 parameters.
     TODO: pune ca parametrii generici la intreg algoritmu':
+    把通用参数放到整个算法中
         NR_INITAL_SOLUTIONS
         self.speedReductionFactor
         self.energyReductionAmount
